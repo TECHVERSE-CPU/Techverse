@@ -1,0 +1,546 @@
+[
+    {
+        "name": "﻿Biotechnology/Greentech",
+        "code": "0"
+    },
+    {
+        "name": "Broadcast Media",
+        "code": "1"
+    },
+    {
+        "name": "Building Materials",
+        "code": "2"
+    },
+    {
+        "name": "Business Supplies/Equipment",
+        "code": "3"
+    },
+    {
+        "name": "Capital Markets/Hedge Fund/Private Equity",
+        "code": "4"
+    },
+    {
+        "name": "Chemicals",
+        "code": "5"
+    },
+    {
+        "name": "Civic/Social Organization",
+        "code": "6"
+    },
+    {
+        "name": "Civil Engineering",
+        "code": "7"
+    },
+    {
+        "name": "Commercial Real Estate",
+        "code": "8"
+    },
+    {
+        "name": "Computer Games",
+        "code": "9"
+    },
+    {
+        "name": "Computer Hardware",
+        "code": "10"
+    },
+    {
+        "name": "Computer Networking",
+        "code": "11"
+    },
+    {
+        "name": "Computer Software/Engineering",
+        "code": "12"
+    },
+    {
+        "name": "Computer/Network Security",
+        "code": "13"
+    },
+    {
+        "name": "Construction",
+        "code": "14"
+    },
+    {
+        "name": "Consumer Electronics",
+        "code": "15"
+    },
+    {
+        "name": "Consumer Goods",
+        "code": "16"
+    },
+    {
+        "name": "Consumer Services",
+        "code": "17"
+    },
+    {
+        "name": "Cosmetics",
+        "code": "18"
+    },
+    {
+        "name": "Dairy",
+        "code": "19"
+    },
+    {
+        "name": "Defense/Space",
+        "code": "20"
+    },
+    {
+        "name": "Design",
+        "code": "21"
+    },
+    {
+        "name": "E-Learning",
+        "code": "22"
+    },
+    {
+        "name": "Education Management",
+        "code": "23"
+    },
+    {
+        "name": "Electrical/Electronic Manufacturing",
+        "code": "24"
+    },
+    {
+        "name": "Entertainment/Movie Production",
+        "code": "25"
+    },
+    {
+        "name": "Environmental Services",
+        "code": "26"
+    },
+    {
+        "name": "Events Services",
+        "code": "27"
+    },
+    {
+        "name": "Executive Office",
+        "code": "28"
+    },
+    {
+        "name": "Facilities Services",
+        "code": "29"
+    },
+    {
+        "name": "Farming",
+        "code": "30"
+    },
+    {
+        "name": "Financial Services",
+        "code": "31"
+    },
+    {
+        "name": "Fine Art",
+        "code": "32"
+    },
+    {
+        "name": "Fishery",
+        "code": "33"
+    },
+    {
+        "name": "Food Production",
+        "code": "34"
+    },
+    {
+        "name": "Food/Beverages",
+        "code": "35"
+    },
+    {
+        "name": "Fundraising",
+        "code": "36"
+    },
+    {
+        "name": "Furniture",
+        "code": "37"
+    },
+    {
+        "name": "Gambling/Casinos",
+        "code": "38"
+    },
+    {
+        "name": "Glass/Ceramics/Concrete",
+        "code": "39"
+    },
+    {
+        "name": "Government Administration",
+        "code": "40"
+    },
+    {
+        "name": "Government Relations",
+        "code": "41"
+    },
+    {
+        "name": "Graphic Design/Web Design",
+        "code": "42"
+    },
+    {
+        "name": "Health/Fitness",
+        "code": "43"
+    },
+    {
+        "name": "Higher Education/Acadamia",
+        "code": "44"
+    },
+    {
+        "name": "Hospital/Health Care",
+        "code": "45"
+    },
+    {
+        "name": "Hospitality",
+        "code": "46"
+    },
+    {
+        "name": "Human Resources/HR",
+        "code": "47"
+    },
+    {
+        "name": "Import/Export",
+        "code": "48"
+    },
+    {
+        "name": "Individual/Family Services",
+        "code": "49"
+    },
+    {
+        "name": "Industrial Automation",
+        "code": "50"
+    },
+    {
+        "name": "Information Services",
+        "code": "51"
+    },
+    {
+        "name": "Information Technology/IT",
+        "code": "52"
+    },
+    {
+        "name": "Insurance",
+        "code": "53"
+    },
+    {
+        "name": "International Affairs",
+        "code": "54"
+    },
+    {
+        "name": "International Trade/Development",
+        "code": "55"
+    },
+    {
+        "name": "Internet",
+        "code": "56"
+    },
+    {
+        "name": "Investment Banking/Venture",
+        "code": "57"
+    },
+    {
+        "name": "Investment Management/Hedge Fund/Private Equity",
+        "code": "58"
+    },
+    {
+        "name": "Judiciary",
+        "code": "59"
+    },
+    {
+        "name": "Law Enforcement",
+        "code": "60"
+    },
+    {
+        "name": "Law Practice/Law Firms",
+        "code": "61"
+    },
+    {
+        "name": "Legal Services",
+        "code": "62"
+    },
+    {
+        "name": "Legislative Office",
+        "code": "63"
+    },
+    {
+        "name": "Leisure/Travel",
+        "code": "64"
+    },
+    {
+        "name": "Library",
+        "code": "65"
+    },
+    {
+        "name": "Logistics/Procurement",
+        "code": "66"
+    },
+    {
+        "name": "Luxury Goods/Jewelry",
+        "code": "67"
+    },
+    {
+        "name": "Machinery",
+        "code": "68"
+    },
+    {
+        "name": "Management Consulting",
+        "code": "69"
+    },
+    {
+        "name": "Maritime",
+        "code": "70"
+    },
+    {
+        "name": "Market Research",
+        "code": "71"
+    },
+    {
+        "name": "Marketing/Advertising/Sales",
+        "code": "72"
+    },
+    {
+        "name": "Mechanical or Industrial Engineering",
+        "code": "73"
+    },
+    {
+        "name": "Media Production",
+        "code": "74"
+    },
+    {
+        "name": "Medical Equipment",
+        "code": "75"
+    },
+    {
+        "name": "Medical Practice",
+        "code": "76"
+    },
+    {
+        "name": "Mental Health Care",
+        "code": "77"
+    },
+    {
+        "name": "Military Industry",
+        "code": "78"
+    },
+    {
+        "name": "Mining/Metals",
+        "code": "79"
+    },
+    {
+        "name": "Motion Pictures/Film",
+        "code": "80"
+    },
+    {
+        "name": "Museums/Institutions",
+        "code": "81"
+    },
+    {
+        "name": "Music",
+        "code": "82"
+    },
+    {
+        "name": "Nanotechnology",
+        "code": "83"
+    },
+    {
+        "name": "Newspapers/Journalism",
+        "code": "84"
+    },
+    {
+        "name": "Non-Profit/Volunteering",
+        "code": "85"
+    },
+    {
+        "name": "Oil/Energy/Solar/Greentech",
+        "code": "86"
+    },
+    {
+        "name": "Online Publishing",
+        "code": "87"
+    },
+    {
+        "name": "Other Industry",
+        "code": "88"
+    },
+    {
+        "name": "Outsourcing/Offshoring",
+        "code": "89"
+    },
+    {
+        "name": "Package/Freight Delivery",
+        "code": "90"
+    },
+    {
+        "name": "Packaging/Containers",
+        "code": "91"
+    },
+    {
+        "name": "Paper/Forest Products",
+        "code": "92"
+    },
+    {
+        "name": "Performing Arts",
+        "code": "93"
+    },
+    {
+        "name": "Pharmaceuticals",
+        "code": "94"
+    },
+    {
+        "name": "Philanthropy",
+        "code": "95"
+    },
+    {
+        "name": "Photography",
+        "code": "96"
+    },
+    {
+        "name": "Plastics",
+        "code": "97"
+    },
+    {
+        "name": "Political Organization",
+        "code": "98"
+    },
+    {
+        "name": "Primary/Secondary Education",
+        "code": "99"
+    },
+    {
+        "name": "Printing",
+        "code": "100"
+    },
+    {
+        "name": "Professional Training",
+        "code": "101"
+    },
+    {
+        "name": "Program Development",
+        "code": "102"
+    },
+    {
+        "name": "Public Relations/PR",
+        "code": "103"
+    },
+    {
+        "name": "Public Safety",
+        "code": "104"
+    },
+    {
+        "name": "Publishing Industry",
+        "code": "105"
+    },
+    {
+        "name": "Railroad Manufacture",
+        "code": "106"
+    },
+    {
+        "name": "Ranching",
+        "code": "107"
+    },
+    {
+        "name": "Real Estate/Mortgage",
+        "code": "108"
+    },
+    {
+        "name": "Recreational Facilities/Services",
+        "code": "109"
+    },
+    {
+        "name": "Religious Institutions",
+        "code": "110"
+    },
+    {
+        "name": "Renewables/Environment",
+        "code": "111"
+    },
+    {
+        "name": "Research Industry",
+        "code": "112"
+    },
+    {
+        "name": "Restaurants",
+        "code": "113"
+    },
+    {
+        "name": "Retail Industry",
+        "code": "114"
+    },
+    {
+        "name": "Security/Investigations",
+        "code": "115"
+    },
+    {
+        "name": "Semiconductors",
+        "code": "116"
+    },
+    {
+        "name": "Shipbuilding",
+        "code": "117"
+    },
+    {
+        "name": "Sporting Goods",
+        "code": "118"
+    },
+    {
+        "name": "Sports",
+        "code": "119"
+    },
+    {
+        "name": "Staffing/Recruiting",
+        "code": "120"
+    },
+    {
+        "name": "Supermarkets",
+        "code": "121"
+    },
+    {
+        "name": "Telecommunications",
+        "code": "122"
+    },
+    {
+        "name": "Textiles",
+        "code": "123"
+    },
+    {
+        "name": "Think Tanks",
+        "code": "124"
+    },
+    {
+        "name": "Tobacco",
+        "code": "125"
+    },
+    {
+        "name": "Translation/Localization",
+        "code": "126"
+    },
+    {
+        "name": "Transportation",
+        "code": "127"
+    },
+    {
+        "name": "Utilities",
+        "code": "128"
+    },
+    {
+        "name": "Venture Capital/VC",
+        "code": "129"
+    },
+    {
+        "name": "Veterinary",
+        "code": "130"
+    },
+    {
+        "name": "Warehousing",
+        "code": "131"
+    },
+    {
+        "name": "Wholesale",
+        "code": "132"
+    },
+    {
+        "name": "Wine/Spirits",
+        "code": "133"
+    },
+    {
+        "name": "Wireless",
+        "code": "134"
+    },
+    {
+        "name": "Writing/Editing",
+        "code": "135"
+    }
+]

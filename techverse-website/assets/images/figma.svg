@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-icon">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="icon" clip-path="url(#clip-icon)">
+    <g id="figma-1_1_" data-name="figma-1(1)" transform="translate(19 3)">
+      <path id="Path_2962" data-name="Path 2962" d="M15.667,231.333a15.672,15.672,0,0,0,15.667-15.667V200H15.667a15.667,15.667,0,0,0,0,31.333Z" transform="translate(0 -137.333)"/>
+      <path id="Path_2963" data-name="Path 2963" d="M0,115.667A15.672,15.672,0,0,1,15.667,100H31.333v31.333H15.667A15.672,15.672,0,0,1,0,115.667Z" transform="translate(0 -68.667)"/>
+      <path id="Path_2964" data-name="Path 2964" d="M0,15.667A15.672,15.672,0,0,1,15.667,0H31.333V31.333H15.667A15.672,15.672,0,0,1,0,15.667Z"/>
+      <path id="Path_2965" data-name="Path 2965" d="M100,0h15.667a15.667,15.667,0,0,1,0,31.333H100Z" transform="translate(-68.667)"/>
+      <path id="Path_2966" data-name="Path 2966" d="M131.333,115.667A15.667,15.667,0,1,1,115.667,100,15.672,15.672,0,0,1,131.333,115.667Z" transform="translate(-68.667 -68.667)"/>
+    </g>
+  </g>
+</svg>

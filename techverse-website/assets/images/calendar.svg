@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="20" viewBox="0 0 19 20">
+  <g id="Iconly_Bulk_Calendar" data-name="Iconly/Bulk/Calendar" transform="translate(-3 -2)">
+    <g id="Calendar" transform="translate(3 2)">
+      <path id="Fill_1" data-name="Fill 1" d="M5.412,12.743C2.106,12.743,0,10.773,0,7.613V0H19V7.674c0,3.138-2.085,5.069-5.423,5.069Z" transform="translate(0 7.257)"/>
+      <path id="Fill_4" data-name="Fill 4" d="M0,5.767A15.037,15.037,0,0,1,.164,3.64,4.782,4.782,0,0,1,4.794,0H14.2a4.833,4.833,0,0,1,4.63,3.64,15.072,15.072,0,0,1,.163,2.127Z" transform="translate(0.004 1.49)" fill="#200e32" opacity="0.4"/>
+      <path id="Fill_6" data-name="Fill 6" d="M.8,4.59a.768.768,0,0,0,.8-.77V.771A.769.769,0,0,0,.8,0,.769.769,0,0,0,0,.771V3.82a.768.768,0,0,0,.8.77" transform="translate(4.797)" fill="#200e32"/>
+      <path id="Fill_9" data-name="Fill 9" d="M.8,4.59a.774.774,0,0,0,.8-.77V.771A.775.775,0,0,0,.8,0,.769.769,0,0,0,0,.771V3.82a.768.768,0,0,0,.8.77" transform="translate(12.597)" fill="#200e32"/>
+    </g>
+  </g>
+</svg>

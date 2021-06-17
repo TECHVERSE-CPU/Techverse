@@ -1,0 +1,82 @@
+[
+    {
+        "name": "﻿E-Commerce Apps",
+        "code": "0"
+    },
+    {
+        "name": "Business Apps",
+        "code": "1"
+    },
+    {
+        "name": "Entertainment Apps",
+        "code": "2"
+    },
+    {
+        "name": "Portfolio Apps",
+        "code": "3"
+    },
+    {
+        "name": "Media Apps",
+        "code": "4"
+    },
+    {
+        "name": "Brochure Apps",
+        "code": "5"
+    },
+    {
+        "name": "Nonprofit Apps",
+        "code": "6"
+    },
+    {
+        "name": "Educational Apps",
+        "code": "7"
+    },
+    {
+        "name": "Infopreneur Apps",
+        "code": "8"
+    },
+    {
+        "name": "Web Apps",
+        "code": "9"
+    },
+    {
+        "name": "Wiki or Community Forum Apps",
+        "code": "10"
+    },
+    {
+        "name": "Brochure and Catalogue Apps",
+        "code": "11"
+    },
+    {
+        "name": "Business Apps",
+        "code": "12"
+    },
+    {
+        "name": "Portal Apps",
+        "code": "13"
+    },
+    {
+        "name": "Crowdfunding Apps",
+        "code": "14"
+    },
+    {
+        "name": "Portfolio Apps / CV Apps.",
+        "code": "15"
+    },
+    {
+        "name": "Chatbox Apps",
+        "code": "16"
+    },
+    {
+        "name": "Messaging Apps",
+        "code": "17"
+    },
+    {
+        "name": "Native Apps",
+        "code": "18"
+    },
+    {
+        "name": "Hybrid Apps",
+        "code": "19"
+    }
+]
